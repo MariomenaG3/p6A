@@ -1,0 +1,75 @@
+# Day 1 Report
+
+## Project
+
+**Workshop Management & Student Practical Training**
+
+## Prepared By
+
+**AI/ML Engineer**
+
+## Date
+  
+**19 September 2026**
+
+## 1. Objectives
+
+* Understand the project requirements.
+* Understand my role as an AI/ML Engineer.
+* Identify the AI features needed in the project.
+* Define the data needed for the AI features.
+* Coordinate with the Backend and Data teams.
+* Create the required AI/ML tasks in ClickUp.
+
+---
+
+## 2. Completed Tasks
+
+* Reviewed the Project 6 requirements.
+* Identified the two main AI features:
+
+  * Parts Reorder / Demand Forecasting.
+  * Training Completion Risk.
+* Defined the basic rule-based approach for both features.
+* Identified the required inventory and training data.
+* Defined the main evaluation metrics:
+
+  * MAE and WAPE for demand forecasting.
+  * Precision and Recall for training risk.
+* Defined a fallback plan in case the AI model is unavailable.
+* Prepared the initial AI/ML tasks for ClickUp.
+
+The project requires a deterministic baseline and a fallback before using advanced AI models.
+
+---
+
+## 3. Next Steps
+
+* Collect and check the required data.
+* Coordinate with the Backend team for API requirements.
+* Build the Parts Reorder baseline.
+* Build the Training Risk baseline.
+* Test the available data.
+* Evaluate an ML model if enough data is available.
+* Connect the AI results with the main system.
+
+---
+
+## 4. Risks
+
+* Not enough historical data.
+* Missing or incorrect data.
+* Delay in receiving data or APIs from other teams.
+* ML model may not perform better than the baseline.
+
+### Risk Mitigation
+
+Use simple rule-based methods first and keep them as a fallback for the AI models.
+
+---
+
+## 5. Day 1 Status
+
+**Status: Completed**
+
+The AI/ML scope was identified, the required data and baseline approaches were defined, and the next implementation steps were prepared.
